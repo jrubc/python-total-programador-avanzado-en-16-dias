@@ -1,0 +1,7 @@
+# Libraries
+
+pyttsx3
+SpeechRecognition
+pywhatkit
+yfinance
+pyjokes
